@@ -2,7 +2,12 @@ const{test,expect}  = require('@playwright/test')
 const exp = require('constants')
 
 test("Login test", async({page}) => {
+    const startTime = Date.now();
     await page.goto("https://practicetestautomation.com/practice-test-login/")
+    const endTime = Date.now();
+    console.log(`Page Load Time: ${endTime - startTime} ms`);
+
+
     await page.locator('#username').fill("student")
     await page.locator('#password').fill("Password123")
     await page.locator('#submit').click()

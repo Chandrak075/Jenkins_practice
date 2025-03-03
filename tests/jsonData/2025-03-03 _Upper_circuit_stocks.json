@@ -1,0 +1,47 @@
+[
+  {
+    "Stock_name": "Sky Gold Ltd.",
+    "price_now": "334.00",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Dolphin Offshore Enterprises (India) Ltd.",
+    "price_now": "239.87",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Nitiraj Engineers Ltd.",
+    "price_now": "296.65",
+    "Change_percentage": "+10.00"
+  },
+  {
+    "Stock_name": "Pansari Developers Ltd.",
+    "price_now": "156.54",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Tera Software Ltd.",
+    "price_now": "175.61",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Krebs Biochemicals & Industries Ltd.",
+    "price_now": "82.82",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Norben Tea & Exports Ltd.",
+    "price_now": "47.14",
+    "Change_percentage": "+1.99"
+  },
+  {
+    "Stock_name": "Shree Ram Proteins Ltd.",
+    "price_now": "1.02",
+    "Change_percentage": "+4.08"
+  },
+  {
+    "Stock_name": "Viji Finance Ltd.",
+    "price_now": "2.42",
+    "Change_percentage": "+3.86"
+  }
+]

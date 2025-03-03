@@ -1,0 +1,26 @@
+[
+  {
+    "Stock_name": "Abbott India Ltd.",
+    "price_now": "31,101.05",
+    "Todays_high": "31,215.00",
+    "Previous_high": "30,668.00"
+  },
+  {
+    "Stock_name": "Narayana Hrudayalaya Ltd.",
+    "price_now": "1,550.15",
+    "Todays_high": "1,575.00",
+    "Previous_high": "1,514.70"
+  },
+  {
+    "Stock_name": "Laxmi Goldorna House Ltd.",
+    "price_now": "623.00",
+    "Todays_high": "630.00",
+    "Previous_high": "621.00"
+  },
+  {
+    "Stock_name": "Norben Tea & Exports Ltd.",
+    "price_now": "47.14",
+    "Todays_high": "47.14",
+    "Previous_high": "45.32"
+  }
+]

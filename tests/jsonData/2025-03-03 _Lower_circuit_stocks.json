@@ -1,0 +1,582 @@
+[
+  {
+    "Stock_name": "International Gemmological Institute (India) Ltd.",
+    "price_now": "366.25",
+    "Change_percentage": "-10.00"
+  },
+  {
+    "Stock_name": "Transformers & Rectifiers (India) Ltd.",
+    "price_now": "361.80",
+    "Change_percentage": "-6.16"
+  },
+  {
+    "Stock_name": "Websol Energy Systems Ltd.",
+    "price_now": "890.25",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Kitex Garments Ltd.",
+    "price_now": "154.00",
+    "Change_percentage": "-4.42"
+  },
+  {
+    "Stock_name": "Hubtown Ltd.",
+    "price_now": "194.56",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Unitech Ltd.",
+    "price_now": "5.89",
+    "Change_percentage": "-5.15"
+  },
+  {
+    "Stock_name": "NIBE Ltd.",
+    "price_now": "935.60",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Raj Rayon Industries Ltd.",
+    "price_now": "23.27",
+    "Change_percentage": "-2.02"
+  },
+  {
+    "Stock_name": "MIC Electronics Ltd.",
+    "price_now": "53.32",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Orient Technologies Ltd.",
+    "price_now": "304.40",
+    "Change_percentage": "-4.99"
+  },
+  {
+    "Stock_name": "Sri Adhikari Brothers Television Network Ltd.",
+    "price_now": "443.95",
+    "Change_percentage": "-2.00"
+  },
+  {
+    "Stock_name": "SPML Infra Ltd.",
+    "price_now": "153.01",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Radhika Jeweltech Ltd.",
+    "price_now": "83.98",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Parsvnath Developers Ltd.",
+    "price_now": "22.08",
+    "Change_percentage": "-2.04"
+  },
+  {
+    "Stock_name": "Tembo Global Industries Ltd.",
+    "price_now": "577.70",
+    "Change_percentage": "-1.99"
+  },
+  {
+    "Stock_name": "Macpower CNC Machines Ltd.",
+    "price_now": "724.50",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Nitco Ltd.",
+    "price_now": "96.33",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Suratwwala Business Group Ltd.",
+    "price_now": "37.65",
+    "Change_percentage": "-5.02"
+  },
+  {
+    "Stock_name": "Premier Polyfilm Ltd.",
+    "price_now": "60.65",
+    "Change_percentage": "-6.30"
+  },
+  {
+    "Stock_name": "Industrial Investment Trust Ltd.",
+    "price_now": "271.20",
+    "Change_percentage": "-4.99"
+  },
+  {
+    "Stock_name": "VL E-Governance & IT Solutions Ltd.",
+    "price_now": "52.23",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Manaksia Coated Metals & Industries Ltd.",
+    "price_now": "74.60",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Synergy Green Industries Ltd.",
+    "price_now": "355.90",
+    "Change_percentage": "-4.99"
+  },
+  {
+    "Stock_name": "BGR Energy Systems Ltd.",
+    "price_now": "74.27",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "NBI Industrial Finance Company Ltd.",
+    "price_now": "2,160.30",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Emkay Global Financial Services Ltd.",
+    "price_now": "192.57",
+    "Change_percentage": "-2.00"
+  },
+  {
+    "Stock_name": "Hercules Hoists Ltd.",
+    "price_now": "151.90",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Prozone Realty Ltd.",
+    "price_now": "30.77",
+    "Change_percentage": "-1.09"
+  },
+  {
+    "Stock_name": "Spacenet Enterprises India Ltd.",
+    "price_now": "7.77",
+    "Change_percentage": "-2.02"
+  },
+  {
+    "Stock_name": "Shree Rama Newsprint Ltd.",
+    "price_now": "29.51",
+    "Change_percentage": "-5.02"
+  },
+  {
+    "Stock_name": "Mazda Ltd.",
+    "price_now": "213.41",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Vardhman Polytex Ltd.",
+    "price_now": "9.72",
+    "Change_percentage": "-5.08"
+  },
+  {
+    "Stock_name": "Thomas Scott (India) Ltd.",
+    "price_now": "357.65",
+    "Change_percentage": "-2.00"
+  },
+  {
+    "Stock_name": "Megasoft Ltd.",
+    "price_now": "54.03",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Filatex Fashions Ltd.",
+    "price_now": "0.47",
+    "Change_percentage": "-2.08"
+  },
+  {
+    "Stock_name": "Kothari Products Ltd.",
+    "price_now": "64.12",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Panache Digilife Ltd.",
+    "price_now": "241.50",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "AVG Logistics Ltd.",
+    "price_now": "240.25",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Rudrabhishek Enterprises Ltd.",
+    "price_now": "198.59",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "IZMO Ltd.",
+    "price_now": "241.75",
+    "Change_percentage": "-4.99"
+  },
+  {
+    "Stock_name": "Almondz Global Securities Ltd.",
+    "price_now": "20.29",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Tirupati Forge Ltd.",
+    "price_now": "32.75",
+    "Change_percentage": "-5.02"
+  },
+  {
+    "Stock_name": "Kamdhenu Ventures Ltd.",
+    "price_now": "10.34",
+    "Change_percentage": "-5.05"
+  },
+  {
+    "Stock_name": "Aarvee Denims And Exports Ltd.",
+    "price_now": "137.24",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "SMS Lifesciences India Ltd.",
+    "price_now": "1,050.00",
+    "Change_percentage": "-4.61"
+  },
+  {
+    "Stock_name": "Ravinder Heights Ltd.",
+    "price_now": "51.19",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Mahindra EPC Irrigation Ltd.",
+    "price_now": "110.37",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "McLeod Russel (India) Ltd.",
+    "price_now": "29.44",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Sundaram Brake Lining Ltd.",
+    "price_now": "771.25",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Revathi Equipment India Ltd.",
+    "price_now": "986.05",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Elgi Rubber Company Ltd.",
+    "price_now": "59.87",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Power And Instrumentation (Gujarat) Ltd.",
+    "price_now": "175.94",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "AGS Transact Technologies Ltd.",
+    "price_now": "18.97",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Supreme Infrastructure India Ltd.",
+    "price_now": "86.15",
+    "Change_percentage": "-2.00"
+  },
+  {
+    "Stock_name": "The Peria Karamalai Tea & Produce Company Ltd.",
+    "price_now": "650.00",
+    "Change_percentage": "-4.41"
+  },
+  {
+    "Stock_name": "Lorenzini Apparels Ltd.",
+    "price_now": "10.62",
+    "Change_percentage": "-4.92"
+  },
+  {
+    "Stock_name": "RS Software (India) Ltd.",
+    "price_now": "67.00",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Delphi World Money Ltd.",
+    "price_now": "146.17",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Dhruv Consultancy Services Ltd.",
+    "price_now": "82.90",
+    "Change_percentage": "-4.61"
+  },
+  {
+    "Stock_name": "Vipul Ltd.",
+    "price_now": "10.47",
+    "Change_percentage": "-5.08"
+  },
+  {
+    "Stock_name": "Alphageo (India) Ltd.",
+    "price_now": "230.04",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Reliance Home Finance Ltd.",
+    "price_now": "2.99",
+    "Change_percentage": "-2.29"
+  },
+  {
+    "Stock_name": "The Indian Card Clothing Company Ltd.",
+    "price_now": "229.52",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "BAG Films & Media Ltd.",
+    "price_now": "6.55",
+    "Change_percentage": "-4.93"
+  },
+  {
+    "Stock_name": "Pioneer Embroideries Ltd.",
+    "price_now": "42.02",
+    "Change_percentage": "-5.02"
+  },
+  {
+    "Stock_name": "Cubex Tubings Ltd.",
+    "price_now": "89.13",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Par Drugs & Chemicals Ltd.",
+    "price_now": "99.40",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Cambridge Technology Enterprises Ltd.",
+    "price_now": "60.31",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Odigma Consultancy Solutions Ltd.",
+    "price_now": "36.28",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Sampann Utpadan India Ltd.",
+    "price_now": "27.68",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Flexituff Ventures International Ltd.",
+    "price_now": "33.23",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Lambodhara Textiles Ltd.",
+    "price_now": "104.65",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Gayatri Projects Ltd.",
+    "price_now": "5.68",
+    "Change_percentage": "-5.02"
+  },
+  {
+    "Stock_name": "Ausom Enterprise Ltd.",
+    "price_now": "76.82",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Latteys Industries Ltd.",
+    "price_now": "17.01",
+    "Change_percentage": "-5.03"
+  },
+  {
+    "Stock_name": "Ansal Properties & Infrastructure Ltd.",
+    "price_now": "6.14",
+    "Change_percentage": "-5.10"
+  },
+  {
+    "Stock_name": "Touchwood Entertainment Ltd.",
+    "price_now": "85.69",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Kavveri Defence & Wireless Technologies Ltd.",
+    "price_now": "44.62",
+    "Change_percentage": "-2.02"
+  },
+  {
+    "Stock_name": "Energy Development Company Ltd.",
+    "price_now": "17.77",
+    "Change_percentage": "-5.02"
+  },
+  {
+    "Stock_name": "Aki India Ltd.",
+    "price_now": "8.76",
+    "Change_percentage": "-2.01"
+  },
+  {
+    "Stock_name": "Shekhawati Industries Ltd.",
+    "price_now": "22.11",
+    "Change_percentage": "-5.03"
+  },
+  {
+    "Stock_name": "Banaras Beads Ltd.",
+    "price_now": "113.94",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "LCC Infotech Ltd.",
+    "price_now": "5.95",
+    "Change_percentage": "-5.10"
+  },
+  {
+    "Stock_name": "Noida Toll Bridge Company Ltd.",
+    "price_now": "3.97",
+    "Change_percentage": "-2.22"
+  },
+  {
+    "Stock_name": "Twentyfirst Century Management Services Ltd.",
+    "price_now": "69.98",
+    "Change_percentage": "-2.00"
+  },
+  {
+    "Stock_name": "Ganga Forging Ltd.",
+    "price_now": "5.05",
+    "Change_percentage": "-5.08"
+  },
+  {
+    "Stock_name": "Palred Technologies Ltd.",
+    "price_now": "52.12",
+    "Change_percentage": "-4.17"
+  },
+  {
+    "Stock_name": "Atlas Cycles (Haryana) Ltd.",
+    "price_now": "97.08",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Narmada Agrobase Ltd.",
+    "price_now": "16.13",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Cerebra Integrated Technologies Ltd.",
+    "price_now": "5.01",
+    "Change_percentage": "-5.11"
+  },
+  {
+    "Stock_name": "Tarapur Transformers Ltd.",
+    "price_now": "28.47",
+    "Change_percentage": "-2.03"
+  },
+  {
+    "Stock_name": "NRB Industrial Bearings Ltd.",
+    "price_now": "22.36",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "ICDS Ltd.",
+    "price_now": "41.32",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Godha Cabcon & Insulation Ltd.",
+    "price_now": "0.76",
+    "Change_percentage": "-6.17"
+  },
+  {
+    "Stock_name": "SITI Networks Ltd.",
+    "price_now": "0.56",
+    "Change_percentage": "-3.45"
+  },
+  {
+    "Stock_name": "Mask Investments Ltd.",
+    "price_now": "150.03",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "GACM Technologies Ltd.",
+    "price_now": "0.66",
+    "Change_percentage": "-5.71"
+  },
+  {
+    "Stock_name": "Marshall Machines Ltd.",
+    "price_now": "18.14",
+    "Change_percentage": "-2.05"
+  },
+  {
+    "Stock_name": "SVP Global Textiles Ltd.",
+    "price_now": "3.18",
+    "Change_percentage": "-2.15"
+  },
+  {
+    "Stock_name": "Blue Chip India Ltd.",
+    "price_now": "6.72",
+    "Change_percentage": "-2.04"
+  },
+  {
+    "Stock_name": "Sanwaria Consumer Ltd.",
+    "price_now": "0.41",
+    "Change_percentage": "-2.38"
+  },
+  {
+    "Stock_name": "G-Tec Jainx Education Ltd.",
+    "price_now": "29.50",
+    "Change_percentage": "-2.54"
+  },
+  {
+    "Stock_name": "Mahalaxmi Fabric Mills Ltd.",
+    "price_now": "27.71",
+    "Change_percentage": "-5.01"
+  },
+  {
+    "Stock_name": "Ankit Metal & Power Ltd.",
+    "price_now": "1.95",
+    "Change_percentage": "-5.34"
+  },
+  {
+    "Stock_name": "Tijaria Polypipes Ltd.",
+    "price_now": "8.52",
+    "Change_percentage": "-5.02"
+  },
+  {
+    "Stock_name": "Morarjee Textiles Ltd.",
+    "price_now": "6.08",
+    "Change_percentage": "-5.15"
+  },
+  {
+    "Stock_name": "Gujarat Raffia Industries Ltd.",
+    "price_now": "39.01",
+    "Change_percentage": "-5.02"
+  },
+  {
+    "Stock_name": "Radaan Mediaworks (I) Ltd.",
+    "price_now": "3.81",
+    "Change_percentage": "-2.06"
+  },
+  {
+    "Stock_name": "Gayatri Highways Ltd.",
+    "price_now": "0.80",
+    "Change_percentage": "-5.88"
+  },
+  {
+    "Stock_name": "Silly Monks Entertainment Ltd.",
+    "price_now": "16.81",
+    "Change_percentage": "-5.03"
+  },
+  {
+    "Stock_name": "Winsome Yarns Ltd.",
+    "price_now": "2.00",
+    "Change_percentage": "-2.44"
+  },
+  {
+    "Stock_name": "Rajdarshan Industries Ltd.",
+    "price_now": "39.12",
+    "Change_percentage": "-5.00"
+  },
+  {
+    "Stock_name": "Creative Eye Ltd.",
+    "price_now": "5.53",
+    "Change_percentage": "-5.15"
+  },
+  {
+    "Stock_name": "Premier Ltd.",
+    "price_now": "3.30",
+    "Change_percentage": "-5.17"
+  },
+  {
+    "Stock_name": "Alps Industries Ltd.",
+    "price_now": "2.38",
+    "Change_percentage": "-5.18"
+  },
+  {
+    "Stock_name": "SAB Events & Governance Now Media Ltd.",
+    "price_now": "4.35",
+    "Change_percentage": "-2.03"
+  }
+]

@@ -1,0 +1,944 @@
+[
+  {
+    "Stock_name": "Jio Financial Services Ltd.",
+    "price_now": "200.20",
+    "Todays_low": "198.65",
+    "Previous_low": "202.80"
+  },
+  {
+    "Stock_name": "Swiggy Ltd.",
+    "price_now": "327.70",
+    "Todays_low": "317.00",
+    "Previous_low": "325.30"
+  },
+  {
+    "Stock_name": "NTPC Green Energy Ltd.",
+    "price_now": "87.02",
+    "Todays_low": "84.55",
+    "Previous_low": "92.60"
+  },
+  {
+    "Stock_name": "Tata Technologies Ltd.",
+    "price_now": "649.50",
+    "Todays_low": "634.55",
+    "Previous_low": "711.20"
+  },
+  {
+    "Stock_name": "Ola Electric Mobility Ltd.",
+    "price_now": "54.85",
+    "Todays_low": "53.71",
+    "Previous_low": "56.37"
+  },
+  {
+    "Stock_name": "Krishna Institute Of Medical Sciences Ltd.",
+    "price_now": "513.55",
+    "Todays_low": "474.05",
+    "Previous_low": "507.80"
+  },
+  {
+    "Stock_name": "Brainbees Solutions Ltd.",
+    "price_now": "374.85",
+    "Todays_low": "359.10",
+    "Previous_low": "373.35"
+  },
+  {
+    "Stock_name": "Delhivery Ltd.",
+    "price_now": "250.40",
+    "Todays_low": "244.75",
+    "Previous_low": "252.05"
+  },
+  {
+    "Stock_name": "Emcure Pharmaceuticals Ltd.",
+    "price_now": "948.00",
+    "Todays_low": "935.25",
+    "Previous_low": "941.50"
+  },
+  {
+    "Stock_name": "International Gemmological Institute (India) Ltd.",
+    "price_now": "366.25",
+    "Todays_low": "366.25",
+    "Previous_low": "394.75"
+  },
+  {
+    "Stock_name": "Afcons Infrastructure Ltd.",
+    "price_now": "406.45",
+    "Todays_low": "398.75",
+    "Previous_low": "412.50"
+  },
+  {
+    "Stock_name": "OneSource Specialty Pharma Ltd.",
+    "price_now": "1,293.10",
+    "Todays_low": "1,209.95",
+    "Previous_low": "1,251.50"
+  },
+  {
+    "Stock_name": "TBO Tek Ltd.",
+    "price_now": "1,176.55",
+    "Todays_low": "1,138.05",
+    "Previous_low": "1,231.65"
+  },
+  {
+    "Stock_name": "Ventive Hospitality Ltd.",
+    "price_now": "537.25",
+    "Todays_low": "523.40",
+    "Previous_low": "565.25"
+  },
+  {
+    "Stock_name": "Clean Science & Technology Ltd.",
+    "price_now": "1,137.35",
+    "Todays_low": "1,106.45",
+    "Previous_low": "1,220.00"
+  },
+  {
+    "Stock_name": "Cello World Ltd.",
+    "price_now": "540.00",
+    "Todays_low": "538.30",
+    "Previous_low": "557.90"
+  },
+  {
+    "Stock_name": "R R Kabel Ltd.",
+    "price_now": "895.90",
+    "Todays_low": "855.00",
+    "Previous_low": "888.40"
+  },
+  {
+    "Stock_name": "Happy Forgings Ltd.",
+    "price_now": "815.70",
+    "Todays_low": "797.15",
+    "Previous_low": "813.20"
+  },
+  {
+    "Stock_name": "Redtape Ltd.",
+    "price_now": "136.68",
+    "Todays_low": "132.66",
+    "Previous_low": "149.10"
+  },
+  {
+    "Stock_name": "Akums Drugs & Pharmaceuticals Ltd.",
+    "price_now": "440.10",
+    "Todays_low": "432.60",
+    "Previous_low": "470.15"
+  },
+  {
+    "Stock_name": "Raymond Lifestyle Ltd.",
+    "price_now": "1,047.80",
+    "Todays_low": "1,032.10",
+    "Previous_low": "1,118.55"
+  },
+  {
+    "Stock_name": "Lloyds Enterprises Ltd.",
+    "price_now": "42.74",
+    "Todays_low": "40.93",
+    "Previous_low": "41.28"
+  },
+  {
+    "Stock_name": "Protean EGov Technologies Ltd.",
+    "price_now": "1,280.20",
+    "Todays_low": "1,247.10",
+    "Previous_low": "1,278.00"
+  },
+  {
+    "Stock_name": "Bansal Wire Industries Ltd.",
+    "price_now": "330.60",
+    "Todays_low": "323.15",
+    "Previous_low": "325.10"
+  },
+  {
+    "Stock_name": "Unimech Aerospace And Manufacturing Ltd.",
+    "price_now": "927.00",
+    "Todays_low": "887.00",
+    "Previous_low": "922.10"
+  },
+  {
+    "Stock_name": "Indigo Paints Ltd.",
+    "price_now": "977.10",
+    "Todays_low": "973.55",
+    "Previous_low": "981.95"
+  },
+  {
+    "Stock_name": "Senco Gold Ltd.",
+    "price_now": "283.25",
+    "Todays_low": "274.00",
+    "Previous_low": "295.75"
+  },
+  {
+    "Stock_name": "SIS Ltd.",
+    "price_now": "313.55",
+    "Todays_low": "300.05",
+    "Previous_low": "301.50"
+  },
+  {
+    "Stock_name": "Go Fashion (India) Ltd.",
+    "price_now": "697.00",
+    "Todays_low": "679.50",
+    "Previous_low": "690.00"
+  },
+  {
+    "Stock_name": "Enviro Infra Engineers Ltd.",
+    "price_now": "193.10",
+    "Todays_low": "187.10",
+    "Previous_low": "196.50"
+  },
+  {
+    "Stock_name": "Gopal Snacks Ltd.",
+    "price_now": "267.45",
+    "Todays_low": "259.95",
+    "Previous_low": "278.95"
+  },
+  {
+    "Stock_name": "Magellanic Cloud Ltd.",
+    "price_now": "54.42",
+    "Todays_low": "52.05",
+    "Previous_low": "52.81"
+  },
+  {
+    "Stock_name": "Restaurant Brands Asia Ltd.",
+    "price_now": "63.14",
+    "Todays_low": "61.52",
+    "Previous_low": "65.13"
+  },
+  {
+    "Stock_name": "Cyient DLM Ltd.",
+    "price_now": "389.80",
+    "Todays_low": "381.00",
+    "Previous_low": "399.70"
+  },
+  {
+    "Stock_name": "JTL Industries Ltd.",
+    "price_now": "78.24",
+    "Todays_low": "77.06",
+    "Previous_low": "78.46"
+  },
+  {
+    "Stock_name": "Quality Power Electrical Equipments Ltd.",
+    "price_now": "357.85",
+    "Todays_low": "346.05",
+    "Previous_low": "370.50"
+  },
+  {
+    "Stock_name": "MosChip Technologies Ltd.",
+    "price_now": "141.64",
+    "Todays_low": "138.41",
+    "Previous_low": "156.00"
+  },
+  {
+    "Stock_name": "Northern Arc Capital Ltd.",
+    "price_now": "166.14",
+    "Todays_low": "163.60",
+    "Previous_low": "165.16"
+  },
+  {
+    "Stock_name": "Standard Glass Lining Technology Ltd.",
+    "price_now": "126.69",
+    "Todays_low": "124.10",
+    "Previous_low": "129.61"
+  },
+  {
+    "Stock_name": "Utkarsh Small Finance Bank Ltd.",
+    "price_now": "22.73",
+    "Todays_low": "22.36",
+    "Previous_low": "23.90"
+  },
+  {
+    "Stock_name": "Sanathan Textiles Ltd.",
+    "price_now": "290.05",
+    "Todays_low": "286.95",
+    "Previous_low": "305.50"
+  },
+  {
+    "Stock_name": "Ddev Plastiks Industries Ltd.",
+    "price_now": "219.18",
+    "Todays_low": "214.15",
+    "Previous_low": "216.20"
+  },
+  {
+    "Stock_name": "Muthoot Microfin Ltd.",
+    "price_now": "131.82",
+    "Todays_low": "126.41",
+    "Previous_low": "131.16"
+  },
+  {
+    "Stock_name": "Raghav Productivity Enhancers Ltd.",
+    "price_now": "466.15",
+    "Todays_low": "451.00",
+    "Previous_low": "484.05"
+  },
+  {
+    "Stock_name": "Sula Vineyards Ltd.",
+    "price_now": "252.85",
+    "Todays_low": "243.00",
+    "Previous_low": "260.00"
+  },
+  {
+    "Stock_name": "One Mobikwik Systems Ltd.",
+    "price_now": "274.15",
+    "Todays_low": "261.35",
+    "Previous_low": "288.40"
+  },
+  {
+    "Stock_name": "Sindhu Trade Links Ltd.",
+    "price_now": "13.63",
+    "Todays_low": "13.23",
+    "Previous_low": "15.00"
+  },
+  {
+    "Stock_name": "Sai Silks (Kalamandir) Ltd.",
+    "price_now": "129.17",
+    "Todays_low": "125.80",
+    "Previous_low": "142.00"
+  },
+  {
+    "Stock_name": "Spandana Sphoorty Financial Ltd.",
+    "price_now": "257.30",
+    "Todays_low": "247.00",
+    "Previous_low": "265.00"
+  },
+  {
+    "Stock_name": "Laxmi Dental Ltd.",
+    "price_now": "325.65",
+    "Todays_low": "316.05",
+    "Previous_low": "325.50"
+  },
+  {
+    "Stock_name": "Exicom Tele-Systems Ltd.",
+    "price_now": "145.75",
+    "Todays_low": "145.75",
+    "Previous_low": "159.51"
+  },
+  {
+    "Stock_name": "Landmark Cars Ltd.",
+    "price_now": "425.15",
+    "Todays_low": "404.45",
+    "Previous_low": "431.15"
+  },
+  {
+    "Stock_name": "Carraro India Ltd.",
+    "price_now": "308.10",
+    "Todays_low": "302.10",
+    "Previous_low": "325.00"
+  },
+  {
+    "Stock_name": "Rashi Peripherals Ltd.",
+    "price_now": "254.00",
+    "Todays_low": "245.15",
+    "Previous_low": "265.00"
+  },
+  {
+    "Stock_name": "Motisons Jewellers Ltd.",
+    "price_now": "16.87",
+    "Todays_low": "16.44",
+    "Previous_low": "18.15"
+  },
+  {
+    "Stock_name": "HLE Glascoat Ltd.",
+    "price_now": "235.79",
+    "Todays_low": "229.00",
+    "Previous_low": "251.50"
+  },
+  {
+    "Stock_name": "HMA Agro Industries Ltd.",
+    "price_now": "32.14",
+    "Todays_low": "30.21",
+    "Previous_low": "32.02"
+  },
+  {
+    "Stock_name": "Sanstar Ltd.",
+    "price_now": "87.82",
+    "Todays_low": "86.40",
+    "Previous_low": "89.10"
+  },
+  {
+    "Stock_name": "Knowledge Marine & Engineering Works Ltd.",
+    "price_now": "1,470.00",
+    "Todays_low": "1,437.55",
+    "Previous_low": "1,511.25"
+  },
+  {
+    "Stock_name": "Meghmani Organics Ltd.",
+    "price_now": "61.53",
+    "Todays_low": "59.24",
+    "Previous_low": "61.51"
+  },
+  {
+    "Stock_name": "JNK India Ltd.",
+    "price_now": "280.20",
+    "Todays_low": "264.80",
+    "Previous_low": "302.50"
+  },
+  {
+    "Stock_name": "Stanley Lifestyles Ltd.",
+    "price_now": "266.60",
+    "Todays_low": "259.10",
+    "Previous_low": "266.00"
+  },
+  {
+    "Stock_name": "IdeaForge Technology Ltd.",
+    "price_now": "347.55",
+    "Todays_low": "338.50",
+    "Previous_low": "366.00"
+  },
+  {
+    "Stock_name": "Fusion Finance Ltd.",
+    "price_now": "145.96",
+    "Todays_low": "140.20",
+    "Previous_low": "154.00"
+  },
+  {
+    "Stock_name": "DAM Capital Advisors Ltd.",
+    "price_now": "207.00",
+    "Todays_low": "201.50",
+    "Previous_low": "219.45"
+  },
+  {
+    "Stock_name": "India Pesticides Ltd.",
+    "price_now": "123.85",
+    "Todays_low": "119.79",
+    "Previous_low": "128.00"
+  },
+  {
+    "Stock_name": "ESAF Small Finance Bank Ltd.",
+    "price_now": "27.24",
+    "Todays_low": "26.55",
+    "Previous_low": "29.06"
+  },
+  {
+    "Stock_name": "Uniparts India Ltd.",
+    "price_now": "309.65",
+    "Todays_low": "305.05",
+    "Previous_low": "306.35"
+  },
+  {
+    "Stock_name": "Suraksha Diagnostic Ltd.",
+    "price_now": "259.80",
+    "Todays_low": "251.05",
+    "Previous_low": "277.00"
+  },
+  {
+    "Stock_name": "Dreamfolks Services Ltd.",
+    "price_now": "253.15",
+    "Todays_low": "246.40",
+    "Previous_low": "256.35"
+  },
+  {
+    "Stock_name": "BLS E-Services Ltd.",
+    "price_now": "148.01",
+    "Todays_low": "145.25",
+    "Previous_low": "162.72"
+  },
+  {
+    "Stock_name": "NIBE Ltd.",
+    "price_now": "935.60",
+    "Todays_low": "935.60",
+    "Previous_low": "1,008.00"
+  },
+  {
+    "Stock_name": "Gandhar Oil Refinery (India) Ltd.",
+    "price_now": "131.94",
+    "Todays_low": "128.48",
+    "Previous_low": "141.05"
+  },
+  {
+    "Stock_name": "Roto Pumps Ltd.",
+    "price_now": "189.23",
+    "Todays_low": "186.00",
+    "Previous_low": "195.22"
+  },
+  {
+    "Stock_name": "Capital Small Finance Bank Ltd.",
+    "price_now": "256.15",
+    "Todays_low": "253.55",
+    "Previous_low": "270.10"
+  },
+  {
+    "Stock_name": "Barbeque-Nation Hospitality Ltd.",
+    "price_now": "280.10",
+    "Todays_low": "266.60",
+    "Previous_low": "270.50"
+  },
+  {
+    "Stock_name": "Yatra Online Ltd.",
+    "price_now": "69.37",
+    "Todays_low": "66.61",
+    "Previous_low": "72.02"
+  },
+  {
+    "Stock_name": "Borosil Scientific Ltd.",
+    "price_now": "121.01",
+    "Todays_low": "120.00",
+    "Previous_low": "131.10"
+  },
+  {
+    "Stock_name": "Suyog Telematics Ltd.",
+    "price_now": "994.25",
+    "Todays_low": "941.05",
+    "Previous_low": "961.00"
+  },
+  {
+    "Stock_name": "GPT Healthcare Ltd.",
+    "price_now": "128.95",
+    "Todays_low": "127.75",
+    "Previous_low": "128.70"
+  },
+  {
+    "Stock_name": "Ecos (India) Mobility & Hospitality Ltd.",
+    "price_now": "176.00",
+    "Todays_low": "167.11",
+    "Previous_low": "173.64"
+  },
+  {
+    "Stock_name": "Unicommerce ESolutions Ltd.",
+    "price_now": "100.74",
+    "Todays_low": "96.03",
+    "Previous_low": "108.00"
+  },
+  {
+    "Stock_name": "IRM Energy Ltd.",
+    "price_now": "248.70",
+    "Todays_low": "242.20",
+    "Previous_low": "265.80"
+  },
+  {
+    "Stock_name": "Rossell Techsys Ltd.",
+    "price_now": "261.50",
+    "Todays_low": "245.15",
+    "Previous_low": "266.25"
+  },
+  {
+    "Stock_name": "Vintage Coffee And Beverages Ltd.",
+    "price_now": "76.96",
+    "Todays_low": "75.00",
+    "Previous_low": "86.14"
+  },
+  {
+    "Stock_name": "Heranba Industries Ltd.",
+    "price_now": "228.26",
+    "Todays_low": "221.10",
+    "Previous_low": "238.20"
+  },
+  {
+    "Stock_name": "Sportking India Ltd.",
+    "price_now": "71.40",
+    "Todays_low": "70.00",
+    "Previous_low": "75.60"
+  },
+  {
+    "Stock_name": "Western Carriers (India) Ltd.",
+    "price_now": "85.93",
+    "Todays_low": "83.58",
+    "Previous_low": "88.10"
+  },
+  {
+    "Stock_name": "Mamata Machinery Ltd.",
+    "price_now": "352.50",
+    "Todays_low": "340.10",
+    "Previous_low": "364.30"
+  },
+  {
+    "Stock_name": "Sadhana Nitro Chem Ltd.",
+    "price_now": "24.30",
+    "Todays_low": "23.92",
+    "Previous_low": "24.77"
+  },
+  {
+    "Stock_name": "Rishabh Instruments Ltd.",
+    "price_now": "205.01",
+    "Todays_low": "201.60",
+    "Previous_low": "213.00"
+  },
+  {
+    "Stock_name": "Credo Brands Marketing Ltd.",
+    "price_now": "119.74",
+    "Todays_low": "118.52",
+    "Previous_low": "120.00"
+  },
+  {
+    "Stock_name": "Godavari Biorefineries Ltd.",
+    "price_now": "152.50",
+    "Todays_low": "152.47",
+    "Previous_low": "155.95"
+  },
+  {
+    "Stock_name": "Racl Geartech Ltd.",
+    "price_now": "718.15",
+    "Todays_low": "679.95",
+    "Previous_low": "684.00"
+  },
+  {
+    "Stock_name": "Anuh Pharma Ltd.",
+    "price_now": "151.72",
+    "Todays_low": "149.98",
+    "Previous_low": "157.80"
+  },
+  {
+    "Stock_name": "Popular Vehicles And Services Ltd.",
+    "price_now": "105.65",
+    "Todays_low": "99.40",
+    "Previous_low": "113.10"
+  },
+  {
+    "Stock_name": "Valiant Organics Ltd.",
+    "price_now": "259.15",
+    "Todays_low": "250.35",
+    "Previous_low": "255.50"
+  },
+  {
+    "Stock_name": "Indef Manufacturing Ltd.",
+    "price_now": "215.50",
+    "Todays_low": "206.57",
+    "Previous_low": "228.90"
+  },
+  {
+    "Stock_name": "Chemcon Speciality Chemicals Ltd.",
+    "price_now": "183.00",
+    "Todays_low": "182.02",
+    "Previous_low": "195.44"
+  },
+  {
+    "Stock_name": "Allcargo Terminals Ltd.",
+    "price_now": "27.18",
+    "Todays_low": "26.47",
+    "Previous_low": "26.50"
+  },
+  {
+    "Stock_name": "Deepak Builders & Engineers India Ltd.",
+    "price_now": "137.34",
+    "Todays_low": "133.39",
+    "Previous_low": "137.37"
+  },
+  {
+    "Stock_name": "Radiant Cash Management Services Ltd.",
+    "price_now": "59.78",
+    "Todays_low": "57.01",
+    "Previous_low": "60.60"
+  },
+  {
+    "Stock_name": "Manba Finance Ltd.",
+    "price_now": "126.15",
+    "Todays_low": "119.00",
+    "Previous_low": "128.00"
+  },
+  {
+    "Stock_name": "Linc Ltd.",
+    "price_now": "104.49",
+    "Todays_low": "100.40",
+    "Previous_low": "103.00"
+  },
+  {
+    "Stock_name": "Suraj Ltd.",
+    "price_now": "335.00",
+    "Todays_low": "297.25",
+    "Previous_low": "300.00"
+  },
+  {
+    "Stock_name": "Gloster Ltd.",
+    "price_now": "551.00",
+    "Todays_low": "545.00",
+    "Previous_low": "569.40"
+  },
+  {
+    "Stock_name": "Sukhjit Starch & Chemicals Ltd.",
+    "price_now": "187.39",
+    "Todays_low": "185.00",
+    "Previous_low": "196.10"
+  },
+  {
+    "Stock_name": "Tracxn Technologies Ltd.",
+    "price_now": "52.40",
+    "Todays_low": "50.46",
+    "Previous_low": "57.72"
+  },
+  {
+    "Stock_name": "Elin Electronics Ltd.",
+    "price_now": "110.37",
+    "Todays_low": "108.21",
+    "Previous_low": "115.98"
+  },
+  {
+    "Stock_name": "Vraj Iron & Steel Ltd.",
+    "price_now": "149.67",
+    "Todays_low": "142.50",
+    "Previous_low": "156.50"
+  },
+  {
+    "Stock_name": "Stallion India Fluorochemicals Ltd.",
+    "price_now": "61.05",
+    "Todays_low": "60.00",
+    "Previous_low": "64.00"
+  },
+  {
+    "Stock_name": "Tolins Tyres Ltd.",
+    "price_now": "116.82",
+    "Todays_low": "113.11",
+    "Previous_low": "121.30"
+  },
+  {
+    "Stock_name": "Davangere Sugar Company Ltd.",
+    "price_now": "4.67",
+    "Todays_low": "4.57",
+    "Previous_low": "4.93"
+  },
+  {
+    "Stock_name": "Mazda Ltd.",
+    "price_now": "213.41",
+    "Todays_low": "213.41",
+    "Previous_low": "227.00"
+  },
+  {
+    "Stock_name": "Nupur Recyclers Ltd.",
+    "price_now": "60.03",
+    "Todays_low": "53.16",
+    "Previous_low": "57.37"
+  },
+  {
+    "Stock_name": "HP Adhesives Ltd.",
+    "price_now": "44.60",
+    "Todays_low": "42.65",
+    "Previous_low": "47.27"
+  },
+  {
+    "Stock_name": "Shree Tirupati Balajee Agro Trading Company Ltd.",
+    "price_now": "50.00",
+    "Todays_low": "48.27",
+    "Previous_low": "54.10"
+  },
+  {
+    "Stock_name": "Dhampur Bio Organics Ltd.",
+    "price_now": "60.86",
+    "Todays_low": "58.46",
+    "Previous_low": "63.61"
+  },
+  {
+    "Stock_name": "Sinclairs Hotels Ltd.",
+    "price_now": "78.80",
+    "Todays_low": "72.86",
+    "Previous_low": "80.00"
+  },
+  {
+    "Stock_name": "Filatex Fashions Ltd.",
+    "price_now": "0.47",
+    "Todays_low": "0.47",
+    "Previous_low": "0.49"
+  },
+  {
+    "Stock_name": "Saraswati Saree Depot Ltd.",
+    "price_now": "96.08",
+    "Todays_low": "94.57",
+    "Previous_low": "100.92"
+  },
+  {
+    "Stock_name": "Indo US Bio-Tech Ltd.",
+    "price_now": "189.00",
+    "Todays_low": "187.00",
+    "Previous_low": "192.00"
+  },
+  {
+    "Stock_name": "Valiant Laboratories Ltd.",
+    "price_now": "84.24",
+    "Todays_low": "80.00",
+    "Previous_low": "85.82"
+  },
+  {
+    "Stock_name": "U Y Fincorp Ltd.",
+    "price_now": "18.35",
+    "Todays_low": "18.00",
+    "Previous_low": "18.88"
+  },
+  {
+    "Stock_name": "Axita Cotton Ltd.",
+    "price_now": "10.03",
+    "Todays_low": "10.01",
+    "Previous_low": "10.11"
+  },
+  {
+    "Stock_name": "Exxaro Tiles Ltd.",
+    "price_now": "7.74",
+    "Todays_low": "7.47",
+    "Previous_low": "7.61"
+  },
+  {
+    "Stock_name": "Music Broadcast Ltd.",
+    "price_now": "9.74",
+    "Todays_low": "9.30",
+    "Previous_low": "9.56"
+  },
+  {
+    "Stock_name": "OCCL Ltd.",
+    "price_now": "65.20",
+    "Todays_low": "63.63",
+    "Previous_low": "68.61"
+  },
+  {
+    "Stock_name": "Kamdhenu Ventures Ltd.",
+    "price_now": "10.34",
+    "Todays_low": "10.34",
+    "Previous_low": "11.30"
+  },
+  {
+    "Stock_name": "Revathi Equipment India Ltd.",
+    "price_now": "986.05",
+    "Todays_low": "986.05",
+    "Previous_low": "1,080.00"
+  },
+  {
+    "Stock_name": "Akme Fintrade (India) Ltd.",
+    "price_now": "66.73",
+    "Todays_low": "65.52",
+    "Previous_low": "66.00"
+  },
+  {
+    "Stock_name": "Vibhor Steel Tubes Ltd.",
+    "price_now": "144.10",
+    "Todays_low": "140.00",
+    "Previous_low": "145.00"
+  },
+  {
+    "Stock_name": "AGS Transact Technologies Ltd.",
+    "price_now": "18.97",
+    "Todays_low": "18.97",
+    "Previous_low": "21.03"
+  },
+  {
+    "Stock_name": "Virinchi Ltd.",
+    "price_now": "23.71",
+    "Todays_low": "23.17",
+    "Previous_low": "24.00"
+  },
+  {
+    "Stock_name": "Nureca Ltd.",
+    "price_now": "239.00",
+    "Todays_low": "235.60",
+    "Previous_low": "240.00"
+  },
+  {
+    "Stock_name": "Sahyadri Industries Ltd.",
+    "price_now": "217.66",
+    "Todays_low": "211.00",
+    "Previous_low": "225.05"
+  },
+  {
+    "Stock_name": "Plaza Wires Ltd.",
+    "price_now": "54.20",
+    "Todays_low": "53.75",
+    "Previous_low": "57.50"
+  },
+  {
+    "Stock_name": "Natural Capsules Ltd.",
+    "price_now": "215.04",
+    "Todays_low": "203.10",
+    "Previous_low": "212.10"
+  },
+  {
+    "Stock_name": "Vishwaraj Sugar Industries Ltd.",
+    "price_now": "9.58",
+    "Todays_low": "9.26",
+    "Previous_low": "10.21"
+  },
+  {
+    "Stock_name": "Aartech Solonics Ltd.",
+    "price_now": "58.00",
+    "Todays_low": "56.25",
+    "Previous_low": "58.10"
+  },
+  {
+    "Stock_name": "Oriental Carbon & Chemicals Ltd.",
+    "price_now": "161.82",
+    "Todays_low": "158.00",
+    "Previous_low": "170.02"
+  },
+  {
+    "Stock_name": "Lancor Holdings Ltd.",
+    "price_now": "21.28",
+    "Todays_low": "19.63",
+    "Previous_low": "20.71"
+  },
+  {
+    "Stock_name": "Generic Engineering Construction And Projects Ltd.",
+    "price_now": "25.42",
+    "Todays_low": "24.60",
+    "Previous_low": "26.71"
+  },
+  {
+    "Stock_name": "Take Solutions Ltd.",
+    "price_now": "8.96",
+    "Todays_low": "8.93",
+    "Previous_low": "9.30"
+  },
+  {
+    "Stock_name": "Baid Finserv Ltd.",
+    "price_now": "10.25",
+    "Todays_low": "10.01",
+    "Previous_low": "10.91"
+  },
+  {
+    "Stock_name": "Odigma Consultancy Solutions Ltd.",
+    "price_now": "36.28",
+    "Todays_low": "36.28",
+    "Previous_low": "38.97"
+  },
+  {
+    "Stock_name": "Digidrive Distributors Ltd.",
+    "price_now": "29.30",
+    "Todays_low": "28.11",
+    "Previous_low": "30.75"
+  },
+  {
+    "Stock_name": "Loyal Textiles Mills Ltd.",
+    "price_now": "225.00",
+    "Todays_low": "217.01",
+    "Previous_low": "219.00"
+  },
+  {
+    "Stock_name": "Atam Valves Ltd.",
+    "price_now": "88.14",
+    "Todays_low": "82.21",
+    "Previous_low": "91.50"
+  },
+  {
+    "Stock_name": "Aki India Ltd.",
+    "price_now": "8.76",
+    "Todays_low": "8.76",
+    "Previous_low": "9.13"
+  },
+  {
+    "Stock_name": "Astron Paper & Board Mill Ltd.",
+    "price_now": "12.76",
+    "Todays_low": "12.50",
+    "Previous_low": "12.80"
+  },
+  {
+    "Stock_name": "MEP Infrastructure Developers Ltd.",
+    "price_now": "2.46",
+    "Todays_low": "2.44",
+    "Previous_low": "2.47"
+  },
+  {
+    "Stock_name": "Akshar Spintex Ltd.",
+    "price_now": "0.57",
+    "Todays_low": "0.55",
+    "Previous_low": "0.56"
+  },
+  {
+    "Stock_name": "SVP Global Textiles Ltd.",
+    "price_now": "3.18",
+    "Todays_low": "3.18",
+    "Previous_low": "3.23"
+  },
+  {
+    "Stock_name": "Future Lifestyle Fashions Ltd.",
+    "price_now": "1.73",
+    "Todays_low": "1.64",
+    "Previous_low": "1.75"
+  },
+  {
+    "Stock_name": "Mahalaxmi Fabric Mills Ltd.",
+    "price_now": "27.71",
+    "Todays_low": "27.71",
+    "Previous_low": "30.00"
+  },
+  {
+    "Stock_name": "Compuage Infocom Ltd.",
+    "price_now": "2.12",
+    "Todays_low": "2.09",
+    "Previous_low": "2.10"
+  }
+]

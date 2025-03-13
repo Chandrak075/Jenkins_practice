@@ -1,0 +1,307 @@
+[
+  {
+    "Stock_name": "Adani Green Energy Ltd.",
+    "price_now": "848.70",
+    "Change_percentage": "+10.43"
+  },
+  {
+    "Stock_name": "Wockhardt Ltd.",
+    "price_now": "1,284.70",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "JSW Holdings Ltd.",
+    "price_now": "18,236.25",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "PTC Industries Ltd.",
+    "price_now": "11,342.00",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "IIFL Finance Ltd.",
+    "price_now": "313.70",
+    "Change_percentage": "+10.61"
+  },
+  {
+    "Stock_name": "ACME Solar Holdings Ltd.",
+    "price_now": "200.89",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Shakti Pumps (India) Ltd.",
+    "price_now": "833.00",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Juniper Hotels Ltd.",
+    "price_now": "270.25",
+    "Change_percentage": "+9.99"
+  },
+  {
+    "Stock_name": "V2 Retail Ltd.",
+    "price_now": "1,588.65",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Refex Industries Ltd.",
+    "price_now": "400.20",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Diamond Power Infrastructure Ltd.",
+    "price_now": "91.89",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Sunflag Iron & Steel Company Ltd.",
+    "price_now": "228.73",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "E2E Networks Ltd.",
+    "price_now": "1,997.00",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Optiemus Infracom Ltd.",
+    "price_now": "455.95",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Kitex Garments Ltd.",
+    "price_now": "169.50",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "63 Moons Technologies Ltd.",
+    "price_now": "729.90",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Indo Tech Transformers Ltd.",
+    "price_now": "2,288.00",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Marine Electricals (India) Ltd.",
+    "price_now": "153.66",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Windsor Machines Ltd.",
+    "price_now": "268.69",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Solara Active Pharma Sciences Ltd.",
+    "price_now": "495.90",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Jai Corp Ltd.",
+    "price_now": "102.59",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Man Industries (India) Ltd.",
+    "price_now": "258.79",
+    "Change_percentage": "+20.00"
+  },
+  {
+    "Stock_name": "NIBE Ltd.",
+    "price_now": "946.50",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "MIC Electronics Ltd.",
+    "price_now": "55.47",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "TIL Ltd.",
+    "price_now": "182.50",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Sri Adhikari Brothers Television Network Ltd.",
+    "price_now": "443.80",
+    "Change_percentage": "+2.00"
+  },
+  {
+    "Stock_name": "Walchandnagar Industries Ltd.",
+    "price_now": "161.98",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Dolphin Offshore Enterprises (India) Ltd.",
+    "price_now": "264.45",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Diffusion Engineers Ltd.",
+    "price_now": "278.91",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Radhika Jeweltech Ltd.",
+    "price_now": "86.18",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "MSP Steel & Power Ltd.",
+    "price_now": "24.78",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Swelect Energy Systems Ltd.",
+    "price_now": "494.40",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Nitco Ltd.",
+    "price_now": "101.53",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Indef Manufacturing Ltd.",
+    "price_now": "222.78",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "NGL Fine - Chem Ltd.",
+    "price_now": "1,049.60",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Synergy Green Industries Ltd.",
+    "price_now": "368.95",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Sical Logistics Ltd.",
+    "price_now": "87.40",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "NBI Industrial Finance Company Ltd.",
+    "price_now": "2,222.35",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "BGR Energy Systems Ltd.",
+    "price_now": "74.97",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Maan Aluminium Ltd.",
+    "price_now": "94.22",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "RPP Infra Projects Ltd.",
+    "price_now": "131.52",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Tara Chand InfraLogistic Solutions Ltd.",
+    "price_now": "56.98",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Orbit Exports Ltd.",
+    "price_now": "167.58",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Megasoft Ltd.",
+    "price_now": "55.46",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Filatex Fashions Ltd.",
+    "price_now": "0.48",
+    "Change_percentage": "+2.13"
+  },
+  {
+    "Stock_name": "IZMO Ltd.",
+    "price_now": "261.75",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Sumit Woods Ltd.",
+    "price_now": "80.87",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Mangalam Organics Ltd.",
+    "price_now": "413.20",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "The Byke Hospitality Ltd.",
+    "price_now": "61.35",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Sundaram Brake Lining Ltd.",
+    "price_now": "813.75",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "S & S Power Switchgear Ltd.",
+    "price_now": "254.15",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Aries Agro Ltd.",
+    "price_now": "240.49",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Pansari Developers Ltd.",
+    "price_now": "170.20",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Tera Software Ltd.",
+    "price_now": "193.60",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "RS Software (India) Ltd.",
+    "price_now": "66.83",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "RKEC Projects Ltd.",
+    "price_now": "68.07",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Alphageo (India) Ltd.",
+    "price_now": "242.29",
+    "Change_percentage": "+4.99"
+  },
+  {
+    "Stock_name": "Kavveri Defence & Wireless Technologies Ltd.",
+    "price_now": "45.51",
+    "Change_percentage": "+1.99"
+  },
+  {
+    "Stock_name": "Delta Manufacturing Ltd.",
+    "price_now": "63.47",
+    "Change_percentage": "+5.00"
+  },
+  {
+    "Stock_name": "Norben Tea & Exports Ltd.",
+    "price_now": "49.04",
+    "Change_percentage": "+2.00"
+  },
+  {
+    "Stock_name": "Ankit Metal & Power Ltd.",
+    "price_now": "2.10",
+    "Change_percentage": "+5.00"
+  }
+]

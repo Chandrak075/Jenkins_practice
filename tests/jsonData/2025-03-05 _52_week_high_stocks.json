@@ -1,0 +1,38 @@
+[
+  {
+    "Stock_name": "Abbott India Ltd.",
+    "price_now": "31,448.10",
+    "Todays_high": "31,898.95",
+    "Previous_high": "31,567.00"
+  },
+  {
+    "Stock_name": "TCPL Packaging Ltd.",
+    "price_now": "4,421.15",
+    "Todays_high": "4,500.00",
+    "Previous_high": "4,320.00"
+  },
+  {
+    "Stock_name": "Taj GVK Hotels & Resorts Ltd.",
+    "price_now": "485.85",
+    "Todays_high": "502.55",
+    "Previous_high": "498.25"
+  },
+  {
+    "Stock_name": "Gujarat Themis Biosyn Ltd.",
+    "price_now": "272.63",
+    "Todays_high": "274.90",
+    "Previous_high": "269.85"
+  },
+  {
+    "Stock_name": "Laxmi Goldorna House Ltd.",
+    "price_now": "627.60",
+    "Todays_high": "640.00",
+    "Previous_high": "640.00"
+  },
+  {
+    "Stock_name": "Norben Tea & Exports Ltd.",
+    "price_now": "49.04",
+    "Todays_high": "49.04",
+    "Previous_high": "47.14"
+  }
+]

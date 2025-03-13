@@ -1,0 +1,224 @@
+[
+  {
+    "Stock_name": "Brainbees Solutions Ltd.",
+    "price_now": "365.45",
+    "Todays_low": "356.00",
+    "Previous_low": "359.10"
+  },
+  {
+    "Stock_name": "Jubilant Agri And Consumer Products Ltd.",
+    "price_now": "1,191.80",
+    "Todays_low": "1,163.00",
+    "Previous_low": "1,230.25"
+  },
+  {
+    "Stock_name": "International Gemmological Institute (India) Ltd.",
+    "price_now": "325.60",
+    "Todays_low": "318.00",
+    "Previous_low": "366.25"
+  },
+  {
+    "Stock_name": "Happy Forgings Ltd.",
+    "price_now": "809.55",
+    "Todays_low": "793.95",
+    "Previous_low": "797.15"
+  },
+  {
+    "Stock_name": "Fedbank Financial Services Ltd.",
+    "price_now": "86.97",
+    "Todays_low": "86.80",
+    "Previous_low": "87.88"
+  },
+  {
+    "Stock_name": "Quality Power Electrical Equipments Ltd.",
+    "price_now": "345.90",
+    "Todays_low": "340.55",
+    "Previous_low": "346.05"
+  },
+  {
+    "Stock_name": "Utkarsh Small Finance Bank Ltd.",
+    "price_now": "22.41",
+    "Todays_low": "22.12",
+    "Previous_low": "22.36"
+  },
+  {
+    "Stock_name": "Exicom Tele-Systems Ltd.",
+    "price_now": "152.85",
+    "Todays_low": "144.51",
+    "Previous_low": "145.75"
+  },
+  {
+    "Stock_name": "Gensol Engineering Ltd.",
+    "price_now": "372.00",
+    "Todays_low": "372.00",
+    "Previous_low": "436.75"
+  },
+  {
+    "Stock_name": "NIBE Ltd.",
+    "price_now": "946.50",
+    "Todays_low": "901.00",
+    "Previous_low": "935.60"
+  },
+  {
+    "Stock_name": "Dreamfolks Services Ltd.",
+    "price_now": "248.90",
+    "Todays_low": "245.40",
+    "Previous_low": "246.40"
+  },
+  {
+    "Stock_name": "GPT Healthcare Ltd.",
+    "price_now": "129.01",
+    "Todays_low": "127.10",
+    "Previous_low": "127.75"
+  },
+  {
+    "Stock_name": "Mamata Machinery Ltd.",
+    "price_now": "342.90",
+    "Todays_low": "340.00",
+    "Previous_low": "340.10"
+  },
+  {
+    "Stock_name": "Sadhana Nitro Chem Ltd.",
+    "price_now": "23.74",
+    "Todays_low": "22.22",
+    "Previous_low": "23.92"
+  },
+  {
+    "Stock_name": "Godavari Biorefineries Ltd.",
+    "price_now": "151.89",
+    "Todays_low": "150.00",
+    "Previous_low": "152.30"
+  },
+  {
+    "Stock_name": "Tolins Tyres Ltd.",
+    "price_now": "115.80",
+    "Todays_low": "110.00",
+    "Previous_low": "113.11"
+  },
+  {
+    "Stock_name": "Kamdhenu Ventures Ltd.",
+    "price_now": "10.67",
+    "Todays_low": "9.81",
+    "Previous_low": "10.34"
+  },
+  {
+    "Stock_name": "Rama Phosphates Ltd.",
+    "price_now": "91.75",
+    "Todays_low": "85.06",
+    "Previous_low": "85.15"
+  },
+  {
+    "Stock_name": "Revathi Equipment India Ltd.",
+    "price_now": "922.75",
+    "Todays_low": "915.00",
+    "Previous_low": "986.05"
+  },
+  {
+    "Stock_name": "Plaza Wires Ltd.",
+    "price_now": "55.89",
+    "Todays_low": "53.36",
+    "Previous_low": "53.75"
+  },
+  {
+    "Stock_name": "Nureca Ltd.",
+    "price_now": "229.67",
+    "Todays_low": "222.00",
+    "Previous_low": "235.03"
+  },
+  {
+    "Stock_name": "AGS Transact Technologies Ltd.",
+    "price_now": "17.11",
+    "Todays_low": "17.11",
+    "Previous_low": "18.97"
+  },
+  {
+    "Stock_name": "Natural Capsules Ltd.",
+    "price_now": "199.66",
+    "Todays_low": "198.25",
+    "Previous_low": "203.10"
+  },
+  {
+    "Stock_name": "Aartech Solonics Ltd.",
+    "price_now": "59.22",
+    "Todays_low": "56.05",
+    "Previous_low": "56.25"
+  },
+  {
+    "Stock_name": "KBC Global Ltd.",
+    "price_now": "1.08",
+    "Todays_low": "1.08",
+    "Previous_low": "1.08"
+  },
+  {
+    "Stock_name": "Loyal Textiles Mills Ltd.",
+    "price_now": "224.00",
+    "Todays_low": "217.00",
+    "Previous_low": "217.01"
+  },
+  {
+    "Stock_name": "Aki India Ltd.",
+    "price_now": "8.75",
+    "Todays_low": "8.40",
+    "Previous_low": "8.76"
+  },
+  {
+    "Stock_name": "Astron Paper & Board Mill Ltd.",
+    "price_now": "12.72",
+    "Todays_low": "11.90",
+    "Previous_low": "12.50"
+  },
+  {
+    "Stock_name": "Akshar Spintex Ltd.",
+    "price_now": "0.57",
+    "Todays_low": "0.54",
+    "Previous_low": "0.55"
+  },
+  {
+    "Stock_name": "MEP Infrastructure Developers Ltd.",
+    "price_now": "2.19",
+    "Todays_low": "2.19",
+    "Previous_low": "2.44"
+  },
+  {
+    "Stock_name": "SVP Global Textiles Ltd.",
+    "price_now": "3.11",
+    "Todays_low": "3.11",
+    "Previous_low": "3.18"
+  },
+  {
+    "Stock_name": "Future Lifestyle Fashions Ltd.",
+    "price_now": "1.64",
+    "Todays_low": "1.59",
+    "Previous_low": "1.64"
+  },
+  {
+    "Stock_name": "Mahalaxmi Fabric Mills Ltd.",
+    "price_now": "26.75",
+    "Todays_low": "26.68",
+    "Previous_low": "27.71"
+  },
+  {
+    "Stock_name": "Globale Tessile Ltd.",
+    "price_now": "21.75",
+    "Todays_low": "20.51",
+    "Previous_low": "21.00"
+  },
+  {
+    "Stock_name": "Morarjee Textiles Ltd.",
+    "price_now": "6.11",
+    "Todays_low": "5.69",
+    "Previous_low": "6.03"
+  },
+  {
+    "Stock_name": "Compuage Infocom Ltd.",
+    "price_now": "2.06",
+    "Todays_low": "2.00",
+    "Previous_low": "2.09"
+  },
+  {
+    "Stock_name": "Future Supply Chain Solutions Ltd.",
+    "price_now": "1.85",
+    "Todays_low": "1.70",
+    "Previous_low": "1.71"
+  }
+]
